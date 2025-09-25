@@ -133,3 +133,6 @@ Real estate segment: corporate_affordable
 
 <img width="5973" height="8261" alt="houston_metro_texas_analysis" src="https://github.com/user-attachments/assets/f36a6ebe-5ace-4c9e-897c-c30a8e0c1263" />
 
+PS: THIS SCRIPT GENERATES RESULTS IN .csv FORMAT (SPREADSHEET)
+
+By Gleaphe 2025 .
